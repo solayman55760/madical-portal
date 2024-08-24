@@ -23,8 +23,8 @@ body{
 }
 
 
-.section1 .header .div2{
-
+.section1 .header .div2 i{
+ color: rgb(7, 144, 235);
 }
 
 
@@ -125,6 +125,7 @@ body{
     color: white;
     border: 1px solid white;
     cursor: pointer;
+    border-radius: 5px;
 }
 
 
