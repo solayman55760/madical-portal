@@ -843,6 +843,224 @@ height: auto;
 }
 
 
+.section9 .laststage .boy h1{
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+    position: relative;
+    padding-left: 60px;
+}
+
+
+.section9 .laststage .boy p{
+    text-align: center;
+    color: white;
+
+}
+
+
+.section9 .btnlas{
+    border: 1px solid white;
+    padding: 10px 30px;
+    margin-left: 505px;
+    border-radius: 20px;
+    background-color: #5DB2FF;
+    color: white;
+}
+
+
+.section9 .btnlas:hover{
+    background-color: white;
+    color: #5DB2FF;
+}
+
+
+.section9 .laststage .girl{
+    background-image: url(img/xemergency-2.png.pagespeed.ic.Db7myp6yIE.webp);
+    background-repeat: no-repeat;
+    width: 50%;
+    z-index: 0;
+    position: relative;
+    height: 300px;
+}
+
+
+.section9 .laststage .girl::before {
+    position: absolute;
+    content: "";
+    background-color: #5DB2FF;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 250px;
+    z-index: -1;
+    opacity: 0.8;
+}
+
+
+.section9 .laststage .girl h1{
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+    position: relative;
+    padding-right: 80px;
+}
+
+
+
+.section9 .laststage .girl p{
+    text-align: center;
+    color: white;
+    padding-right: 155px;
+}
+
+
+.section9 .laststage .girl .btnlas{
+    margin-left: 400px;
+}
+
+
+.section10{
+    width: 100%;
+    height: 600px;
+    background-color:#1F1F1F;
+    margin-top: -51px;
+    margin-bottom: 70px;
+}
+
+
+.section10 .foot1{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    float: left;
+    box-sizing: border-box;
+    padding-top: 100px;
+}
+
+
+.section10 .foot1 .docmed11{
+    width: 30%;
+}
+
+
+.section10 .foot1 .docmed11 img{
+    padding-top: 30px;
+    padding-left: 200px;
+    color: white;
+}
+
+
+.section10 .foot1 .docmed11 p{
+    padding-left: 200px;
+    color: white;
+}
+
+
+.section10 .foot1 .docmed11 i{
+    font-size: 40px;
+    position: relative;
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    
+}
+
+
+.section10 .foot1 .docmed11 i:hover{
+    color: #5DB2FF;
+}
+
+
+
+.section10 .foot1 .docmed12{
+    width: 20%;
+    text-align: center;
+}
+
+
+.section10 .foot1 .docmed12 h1{
+    color: white;
+}
+
+.section10 .foot1 .docmed12 p{
+    color: white;
+}
+
+
+.section10 .foot1 .docmed12 p:hover{
+    color: #5DB2FF;
+}
+
+
+.section10 .foot1 .docmed13{
+    width: 20%;
+}
+
+
+.section10 .foot1 .docmed13 h1{
+color: white;
+}
+
+
+.section10 .foot1 .docmed13 p{
+    color: white;
+}
+
+
+.section10 .foot1 .docmed13 p:hover{
+    color:#5DB2FF;
+}
+
+
+.section10 .foot1 .docmed14{
+    width: 30%;
+    text-align:left;
+}
+
+
+.section10 .foot1 .docmed14
+h1{
+    color: white;
+}
+
+
+.section10 .foot1 .docmed14 p{
+    color: white;
+}
+
+
+.footer{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    margin-top: -70px;
+}
+
+
+.footer .footer1{
+    color: white;
+    justify-content: center;
+    text-align: center;
+    padding-top: 40px;
+    opacity: .7;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
