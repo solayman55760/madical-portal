@@ -438,24 +438,11 @@ figure{
     border-style: none;
     padding-left: 100px;
     display: flex;
-}
-
-
-
-.section4 .welcome .dubleimg .img1{
-    width: 40%;
-    height: 100%;
-    padding-left: 200px;
-}
-
-
-
-.section4 .welcome .dubleimg .img2{
-    width: 40%;
-    height: 100%;
-    margin-right: 100px;
+    height: 80%;
+    vertical-align: middle;
 
 }
+
 
 
 
@@ -504,3 +491,115 @@ figure{
  background-color:#5DB2FF ;
  color: white;
 }
+
+
+.section5{
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color:#eff4fa;
+    margin-top: 150px;
+}
+
+
+.section5 .Department{
+    width: 100%;
+    height: auto;
+}
+
+
+.section5 .Department .our{
+    text-align: center;
+    padding-top: 50px;
+    line-height: 20px;
+    padding-bottom: 50px;
+}
+
+
+.section5 .Department .our h1{
+font-size: 50px;
+opacity: 0.8;
+}
+
+
+.section5 .Department .our p{
+    color:rgb(243, 105, 13);
+    white-space: 3px;
+}
+
+
+.section5 .Department .sixphoto .service1{
+
+display: grid;
+grid-template-columns: repeat(3 , 1fr);
+grid-column-gap: 50px;
+grid-row-gap: 50px;
+margin: 0 auto;
+width: 70%;
+height: auto;
+}
+
+
+.section5 .Department .sixphoto .service1 div{
+    box-shadow: 5px 5px 10px 10px #e6e9e9;
+    background-color: white;
+    padding-bottom: 30px;
+   
+}
+
+
+.section5 .Department .sixphoto .service1 h1{
+    font-size: 30px;
+    padding-left: 20px;
+}
+
+
+.section5 .Department .sixphoto .service1 p{
+    padding-left: 20px;
+    opacity: 0.7;
+}
+
+
+.section5 .Department .sixphoto .service1 a{
+    text-decoration: none;
+    padding-left: 20px;
+    color:#5DB2FF ;
+}
+
+.section5 .Department .sixphoto .service1 .p1:hover{
+    transform: scale(.75);
+    transition: all .5s ease-in-out;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+  
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
