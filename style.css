@@ -941,18 +941,17 @@ height: auto;
 
 .section10 .foot1 .docmed11{
     width: 30%;
+    padding-left:200px;
 }
 
 
 .section10 .foot1 .docmed11 img{
     padding-top: 30px;
-    padding-left: 200px;
     color: white;
 }
 
 
 .section10 .foot1 .docmed11 p{
-    padding-left: 200px;
     color: white;
 }
 
